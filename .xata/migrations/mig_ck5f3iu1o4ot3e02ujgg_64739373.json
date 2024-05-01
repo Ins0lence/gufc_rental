@@ -1,0 +1,13 @@
+{
+  "id": "mig_ck5f3iu1o4ot3e02ujgg",
+  "parentID": "mig_ck5etud99sou97jnarvg",
+  "checksum": "1:647393735b2a275a51440f4de9bae1f047b69f02d445dcfc62510dc66df39101",
+  "operations": [
+    {
+      "renameTable": {
+        "newName": "equipment_types",
+        "oldName": "equipment"
+      }
+    }
+  ]
+}

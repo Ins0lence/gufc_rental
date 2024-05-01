@@ -1,0 +1,13 @@
+{
+  "id": "mig_ck5f4lt99sou97jnas8g",
+  "parentID": "mig_ck5f3tm1o4ot3e02ujhg",
+  "checksum": "1:1d91775946200320b95ac227b9440f8dd8d3c1938cd8feec934a219e6ac816c3",
+  "operations": [
+    {
+      "removeColumn": {
+        "column": "outstanding",
+        "table": "rentals"
+      }
+    }
+  ]
+}

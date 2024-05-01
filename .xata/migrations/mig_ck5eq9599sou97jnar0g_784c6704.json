@@ -1,0 +1,11 @@
+{
+  "id": "mig_ck5eq9599sou97jnar0g",
+  "checksum": "1:784c670403a39ae140760a611542a5210a2ecaae53cd2dbe8a724c3f037bd616",
+  "operations": [
+    {
+      "addTable": {
+        "table": "rentals"
+      }
+    }
+  ]
+}

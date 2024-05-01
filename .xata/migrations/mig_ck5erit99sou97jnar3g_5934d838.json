@@ -1,0 +1,16 @@
+{
+  "id": "mig_ck5erit99sou97jnar3g",
+  "parentID": "mig_ck5erct99sou97jnar2g",
+  "checksum": "1:5934d83831860676770999ea15283d3748fbdbb3661ce7d86e5cef18cca3cd3c",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "price",
+          "type": "float"
+        },
+        "table": "equipment"
+      }
+    }
+  ]
+}

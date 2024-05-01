@@ -1,0 +1,14 @@
+{
+  "id": "mig_ck5equd99sou97jnar1g",
+  "parentID": "mig_ck5eqqm1o4ot3e02uir0",
+  "checksum": "1:412694c18903b2825fbe9ec93c43daef489db95aeabe11f63b491578390a038f",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "GUID",
+        "oldName": "name",
+        "table": "rentals"
+      }
+    }
+  ]
+}

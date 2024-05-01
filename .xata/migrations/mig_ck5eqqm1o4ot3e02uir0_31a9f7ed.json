@@ -1,0 +1,16 @@
+{
+  "id": "mig_ck5eqqm1o4ot3e02uir0",
+  "parentID": "mig_ck5eq9599sou97jnar0g",
+  "checksum": "1:31a9f7ed2bd4762e906574a2c271d238a7054b6a40279eacb8adf4964a12c64b",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "name",
+          "type": "string"
+        },
+        "table": "rentals"
+      }
+    }
+  ]
+}

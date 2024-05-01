@@ -1,0 +1,17 @@
+{
+  "id": "mig_ck5erct99sou97jnar2g",
+  "parentID": "mig_ck5er2u1o4ot3e02uisg",
+  "checksum": "1:cf9ce5f36d4625edc9fa9161a6a68c4ece7dbc745b74a71726317bfa22170a56",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "name",
+          "type": "string",
+          "defaultValue": ""
+        },
+        "table": "equipment"
+      }
+    }
+  ]
+}

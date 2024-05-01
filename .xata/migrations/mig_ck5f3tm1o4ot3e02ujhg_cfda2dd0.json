@@ -1,0 +1,19 @@
+{
+  "id": "mig_ck5f3tm1o4ot3e02ujhg",
+  "parentID": "mig_ck5f3oaguc43gj0bm9e0",
+  "checksum": "1:cfda2dd0081acb71156362c15706fb14413970f5a98371674d7c30934882b422",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "type",
+          "type": "link",
+          "link": {
+            "table": "equipment_types"
+          }
+        },
+        "table": "equipment"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "mig_ck5es5m1o4ot3e02uj3g",
+  "parentID": "mig_ck5erit99sou97jnar3g",
+  "checksum": "1:bd13479d072b5c51f8bc9e2d8cf9311c2f115116ba10894c5a025b68bc219278",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "equipment_name",
+          "type": "link",
+          "link": {
+            "table": "equipment"
+          }
+        },
+        "table": "rentals"
+      }
+    }
+  ]
+}
